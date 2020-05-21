@@ -1,0 +1,8 @@
+   p.centro {
+            text-align: center; /*alinhar o texto*/
+            color: red; /*cor do texto*/
+			}
+   
+         p.largo {
+            font-size: 300%; /*tamanho da letra*/
+				}	
